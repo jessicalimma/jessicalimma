@@ -2,7 +2,7 @@
 
 
 - 🔭 I am currently studying to become a QA analyst
-- 🌱 I’m currently learning Software Testing Foundations, programming, UI testing, API testing and testing automation with Cypress.
+- 🌱 I’m currently learning Software Testing Foundations, Programming, UI testing, API testing and Testing Automation with Cypress.
 - 😄 Pronouns: she/her
 - 📧 jessicalima@outlook.com
 
