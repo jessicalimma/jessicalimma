@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Software Testing Foundations, programming, UI testing, API testing and testing automation with Cypress.
 - 😄 Pronouns: she/her
 - 📧 jessicalima@outlook.com
-- 💼 https://www.linkedin.com/in/jessicabarbosalima/
 
  ##
 <div align="center">
